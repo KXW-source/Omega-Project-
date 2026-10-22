@@ -65,3 +65,5 @@ Subsequently, the full development of the "Omega" system will be released.
 
 Additional versions of the essay will be uploaded as the framework’s development progresses or as it is reformulated in response to critique.
 
+Contact:
+klonax503@gmail.com
