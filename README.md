@@ -21,9 +21,9 @@ Readers are invited to analyze, reflect upon, and critically examine each of the
 
 
 
-
 Omega proposal:
 
+algorithm-based governance, with immutable principles and precise cognitive processes.
 
 
 Project Principles:
@@ -43,6 +43,7 @@ Treat criticism as a means of testing the proposal, not merely promoting it.
 Revisability:
 Allow individual components or the entire approach to be rejected when evidence warrants it.
 
+
 How to Contribute:
 
 Criticism and collaboration are welcome. Particularly useful contributions include:
@@ -56,9 +57,6 @@ Suggestions for narrowing the scope or rejecting unsupported claims.
 
 To contribute, open a GitHub Issue describing the specific claim, assumption, or mechanism under discussion. Whenever possible, include sources, reasoning, counterexamples, and a proposed alternative.
 For substantial changes, explain what problem the change addresses and how it could be evaluated.
-
-
-
 
 
 First, an essay will be published regarding the shortcomings of both humans and current AI in the context of governance. 
